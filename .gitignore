@@ -4,3 +4,5 @@ qm9/
 qm92/
 quantum-machine-9-aka-qm9.zip
 saved_model
+data_list.pickle
+model_latest
